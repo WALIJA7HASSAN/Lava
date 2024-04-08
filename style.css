@@ -595,9 +595,10 @@ color: var(--p-orange);
     .content-contact{
         min-height: 70vh;
     }
+    
     .button-left,.button-right{
         display: none;
-        visibility: hidden;
+        visibility: hidden; 
     }
 
 }
